@@ -1,4 +1,4 @@
-#!/home/lab-pesquisa/Desktop/DataSciene(udemy)/env/bin/python
+#!/home/lab-pesquisa/Desktop/UdemyDS/env/bin/python
 
 import sys
 import getopt
